@@ -2,19 +2,15 @@
 
 ### Dates and location
 
-GDG DevFest Ukraine will take place on the 12-13th of October in [Planeta Kino (King Cross),]( https://goo.gl/Zwi76g) Lviv.
+GDG DevFest South Africa will take place on the 1st of December in [The Capital on The Park,](https://goo.gl/maps/Fhdes8rccQ62) Sandton, Gauteng South Africa.
 
 ### Stay Informed
 
-To stay up to date on the latest information on sessions, speakers, and activities, be sure to visit the [DevFest website](https://devfest.gdg.org.ua/), RSVP on [Meetup]( https://www.meetup.com/GDG-Lviv/events/244342635/) and follow us on [Facebook](https://www.facebook.com/devfest.ukraine/) and [Twitter](https://twitter.com/devfest_ukraine). You can also follow and join the social conversation about GDG DevFest Ukraine via official hashtags #dfua and #Devfest18. In addition, we'll be emailing important information to all registered attendees, along with check-in instructions prior to the conference.
+To stay up to date on the latest information on sessions, speakers, and activities, be sure to visit the [DevFest website](https://devfest.co.za), RSVP on [Meetup]( https://www.meetup.com/GDGJohannesburg/) and follow us on [Twitter](https://twitter.com/GDGJohannesburg). You can also follow and join the social conversation about GDG DevFest South Africa via official hashtags #DevfestZA and #Devfest18. In addition, we'll be emailing important information to all registered attendees, along with check-in instructions prior to the conference.
 
 ### Content Formats
 
-During two conference days attendees will be able to attend sessions and hands-on workshops, chat with experts and attendees at coffee breaks and after party, and more.
-
-### Livestream & Recordings
-
-If you’re unable to attend DevFest in-person, you can still be part of the magic. All the lectures from the sessions will be available for free on GDG Lviv [youtube channel](https://www.youtube.com/channel/UC5nknQj-2llSNd-jqXr4d_w) few weeks after the conference. Workshops won’t be recorded. Also, there could be a livestream provided by participants which you can find via #dfua and #Devfest18 hashtags.
+During the conference day attendees will be able to attend sessions, chat with experts and attendees at coffee breaks, and more.
 
   
 ## Registration
@@ -96,15 +92,7 @@ Special tickets for real supporters of our conference. As we’re organizing the
 
 ### Language
 
-All presentations at GDG DevFest Ukraine will be in English.
-
-### Pro Tips
-
-If you’re joining us in-person at Planeta Kino, here are some useful tips to navigate your way through the conference:
-
-- Lost & Found: Will be located at the Conference Info Desk (Registration point) during event hours. Any items left overnight will be turned over to the Conference Security Office. 
-- Lunch: Attendees are invited to have a lunch at one of the many restaurants at King Cross shopping mall. 
-- After Hours: Day 1 afterparty you don’t want to miss! Attendees are invited to enjoy food, drinks, music, games, and more during the evening of October 12th (location will be published). Your attendee badge is required for entrance. 
+All presentations at GDG DevFest South Africa will be in English.
   
 
 ### Badges & Badge Pick-up
@@ -116,10 +104,9 @@ Everyone is guaranteed a seat for the keynotes but the best seats will be assign
 Please note, you may not share, give, or otherwise provide your badge to anyone. GDG DevFest Ukraine badges aren’t replaceable, so don't lose yours or you won’t be readmitted to the conference. You must wear your GDG DevFest Ukraine badge to gain admission to the conference, including the sessions, workshops, and afterparty. If requested by security, please display or provide additional identification. GDG DevFest Ukraine badges may include your name, company or work title (if provided).
 
   
+### Cocktails
 
-### Afterparty
-
-All registered attendees are invited to the afterparty on the evenings of October 12th. The conference badges will be required for entry. Please join us for food, drinks, music, games, and more. Alcoholic beverages will be available for those 18 and over.
+All registered attendees are invited to join us after the conference on the deck outside for drinks and the opportunity to chat with one another. This will be a cash bar, unless we get a generous sponsor who will pay for this. Reach out to us on [gdgjohannesburg@gmail.com](mailto:gdgjohannesburg@gmail.com) if your company would like to sponsor the cocktail event.
 
   
 
@@ -134,4 +121,4 @@ Smoking is only permitted in designated outdoor smoking areas.
 
 ### No Soliciting
 
-No solicitation or selling of items or services is allowed at GDG DevFest Ukraine. Any attendee conducting these activities may be removed from the conference.
+No solicitation or selling of items or services is allowed at GDG DevFest South Africa. Any attendee conducting these activities may be removed from the conference.
