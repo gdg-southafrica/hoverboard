@@ -2,7 +2,7 @@
   "organizer": {
     "name": "GDG Johannesburg",
     "twitter": "gdgjohannesburg",
-    "blog": "https://medium.com/gdg-lviv",
+    "blog": "https://www.meetup.com/GDGJohannesburg",
     "url": "https://www.meetup.com/GDGJohannesburg"
   },
   "startDate": "2018-12-01T09:00:00+02:00",
@@ -46,33 +46,17 @@
   ],
   "heroSettings": {
     "home": {
-      "description": "Be a hero. Be a GDG!",
+      "description": "Learn about the latest in Google Technology from local developers!",
       "background": {
         "color": "#673ab7",
         "image": "/images/backgrounds/home.jpg"
       },
       "fontColor": "#FFF"
     },
-    "blog": {
-      "title": "Blog",
-      "metaDescription": "Read stories from our team",
-      "background": {
-        "color": "#FFF"
-      },
-      "fontColor": "#424242"
-    },
     "speakers": {
       "title": "Speakers",
       "metaDescription": "Hear from the Googlers, Partners, and Guest Speakers who are building the future of cloud. Check back often as we add more speakers, including our customers and partners.",
       "description": "Hear from the Googlers, Partners, and Guest Speakers who are building the future of cloud. Check back often as we add more speakers, including our customers and partners.",
-      "background": {
-        "color": "#FFF"
-      },
-      "fontColor": "#424242"
-    },
-    "previousSpeakers": {
-      "title": "Previous Speakers",
-      "metaDescription": "Check who was with us last years",
       "background": {
         "color": "#FFF"
       },

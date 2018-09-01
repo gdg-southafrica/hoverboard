@@ -11,7 +11,7 @@
   "emailUs": "Email us",
   "partnershipResources": "Partnership Resources",
   "eventResources": "Event Resources",
-  "buyTicket": "Buy ticket",
+  "buyTicket": "Get a ticket",
   "signIn": "Sign in",
   "signOut": "Sign out",
   "viewHighlights": "View Highlights",
@@ -90,11 +90,11 @@
     "callToAction": {
       "featuredSessions": {
         "description": "GDG DevFest South Africa brings together the world class experts in Android, Web and Cloud technologies to South Africa for a conference not to forget.",
-        "label": "Explore featured session",
-        "link": "https://www.youtube.com/playlist?list=PLt8lEzcLNl31AouwDkbLbLARlQFwNS2en"
+        "label": "Submit a Talk",
+        "link": ""
       },
       "howItWas": {
-        "description": "Described by many as 'Google I/O of Ukraine', our team creates DevFest to be the best place for experience sharing in a phenomenal atmosphere.",
+        "description": "Join us for a day of great technical content, where you can learn from industry experts. ",
         "label": "See how it was in 2016",
         "youtubeId": "TdpbgRgz6eE"
       }
