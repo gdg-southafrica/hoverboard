@@ -202,79 +202,59 @@
     }
   },
   "speakers" : {
-    "adrian_kajda" : {
-      "bio" : "Creator of Fuelio app. Fuelio was his hooby project started in 2012. Three years later the app was aquired by Sygic.",
-      "company" : "Sygic",
-      "companyLogo" : "/images/logos/gdg-lviv.svg",
-      "companyLogoUrl" : "https://storage.googleapis.com/hoverboard-experimental.appspot.com/images/logos/gdg-lviv.svg",
-      "country" : "Creator of Fuelio app. Fuelio blah blah, Poland",
+    "rebecca_franks" : {
+      "bio" : "Android GDE with over 6 years experience developing mobile applications. ",
+      "company" : "Over",
+      "companyLogo" : "",
+      "companyLogoUrl" : "",
+      "country" : "Johannesburg, South Africa",
+      "featured" : false,
+      "name" : "Rebecca Franks",
+      "photo" : "/images/people/Rebecca_Franks.png",
+      "photoUrl" : "https://firebasestorage.googleapis.com/v0/b/devfest-southafrica.appspot.com/o/2018%2Fpeople%2FRebecca_Franks.png?alt=media",
+      "shortBio" : "Android GDE with over 6 years experience developing mobile applications.",
+      "socials" : [ {
+        "icon" : "twitter",
+        "link" : "https://twitter.com/riggaroo",
+        "name" : "Twitter"
+      } ],
+      "title" : "Android GDE"
+    },
+    "mike_geyser" : {
+      "bio" : "Mike Geyser is a programmer at BBD in the R&D team, co-organiser of the Jozi.JS meetup group, a frequent technical speaker, and loves the web. He has been hacking on it since Geocities was a thing, and has the keening wail of dialup modem etched into his subconscious. While he is fluent in several ‘golden hammer’ programming languages, he has a long-lived love affair with JavaScript, and cannot see its (many, obvious) flaws. He has worked on lots of interesting enterprise applications, but it is the challenges of the public web that really appeal to him - having spent his formative years building transactional websites. He is always eager to talk about the web platform, but be warned, he is prone to hyperbole.",
+      "company" : "BBD",
+      "companyLogo" : "",
+      "companyLogoUrl" : "",
+      "country" : "Johannesburg, South Africa",
       "featured" : true,
-      "name" : "Adrian Kajda",
-      "photo" : "/images/people/adrian_kajda.jpg",
-      "photoUrl" : "https://storage.googleapis.com/hoverboard-experimental.appspot.com/images/people/optim/adrian_kajda.jpg",
-      "shortBio" : "Creator of Fuelio app. Fuelio was his hooby project started in 2012. Three years later the app wa...",
-      "socials" : [ {
-        "icon" : "gplus",
-        "link" : "plus.google.com/+AdrianKajda",
-        "name" : "Google+"
-      } ],
-      "title" : "Product Manager/Developer"
-    },
-    "aleksander_piotrowski" : {
-      "bio" : "Became a mobile developer after long run as a backend developer. Because of age, holding senior positions from the day one as an Android programmer. Serial hackathon winner, or at least contender ;-)",
-      "company" : "Applause",
-      "companyLogo" : "/images/logos/gdg-lviv.svg",
-      "companyLogoUrl" : "https://storage.googleapis.com/hoverboard-experimental.appspot.com/images/logos/gdg-lviv.svg",
-      "country" : "Warsaw, Poland",
-      "featured" : false,
-      "name" : "Aleksander Piotrowski",
-      "photo" : "/images/people/aleksander_piotrowski.jpg",
-      "photoUrl" : "https://storage.googleapis.com/hoverboard-experimental.appspot.com/images/people/optim/aleksander_piotrowski.jpg",
-      "shortBio" : "Became a mobile developer after long run as a backend developer. Because of age, holding senior p...",
+      "name" : "Mike Geyser",
+      "photo" : "/2018/people/Mike_Geyser.jpg",
+      "photoUrl" : "https://firebasestorage.googleapis.com/v0/b/devfest-southafrica.appspot.com/o/2018%2Fpeople%2FMike_Geyser.jpg?alt=media",
+      "shortBio" : "Mike Geyser is a programmer at BBD in the R&D team, co-organiser of the Jozi.JS meetup group...",
       "socials" : [ {
         "icon" : "twitter",
-        "link" : "https://twitter.com/pelotasplus",
+        "link" : "https://twitter.com/mikegeyser",
         "name" : "Twitter"
-      }, {
-        "icon" : "facebook",
-        "link" : "http://facebook.com/pelotasplus",
-        "name" : "Facebook"
-      }, {
-        "icon" : "linkedin",
-        "link" : "https://www.linkedin.com/in/pelotasplus",
-        "name" : "LinkedIn"
-      }, {
-        "icon" : "gplus",
-        "link" : "https://www.instagram.com/pelotasplus/",
-        "name" : "Google+"
       } ],
-      "title" : "Code Monkey"
+      "title" : "Web Technologies GDE"
     },
-    "anton__minashkin" : {
-      "bio" : "Android developer, currently works at EPAM. Have experience in both server and mobile side development. All my free time I spend on the endless search of silver bullets, perfect architectures and holy wars.",
-      "company" : "EPAM",
-      "companyLogo" : "/images/logos/gdg-lviv.svg",
-      "companyLogoUrl" : "https://storage.googleapis.com/hoverboard-experimental.appspot.com/images/logos/gdg-lviv.svg",
-      "country" : "Lviv, Ukraine",
-      "featured" : false,
-      "name" : "Anton  Minashkin",
-      "photo" : "/images/people/anton_minashkin.jpg",
-      "photoUrl" : "https://storage.googleapis.com/hoverboard-experimental.appspot.com/images/people/optim/anton_minashkin.jpg",
-      "shortBio" : "Android developer, currently works at EPAM. Have experience in both server and mobile side develo...",
-      "socials" : [ {
-        "icon" : "facebook",
-        "link" : "https://www.facebook.com/anton.minashkin.1",
-        "name" : "Facebook"
-      }, {
+    "kurt_mbanje" : {
+      "bio" : "Android developer, currently works at DStv.",
+      "company" : "DStv",
+      "companyLogo" : "",
+      "companyLogoUrl" : "",
+      "country" : "Johannesburg, South Africa",
+      "featured" : true,
+      "name" : "Kurt Mbanje",
+      "photo" : "/2018/people/Kurt_Mbanje.jpg",
+      "photoUrl" : "https://firebasestorage.googleapis.com/v0/b/devfest-southafrica.appspot.com/o/2018%2Fpeople%2FKurt_Mbanje.jpg?alt=media",
+      "shortBio" : "Android developer, currently works at DStv.",
+      "socials" : [  {
         "icon" : "twitter",
-        "link" : "https://twitter.com/AntonMinashkin",
+        "link" : "https://twitter.com/ckurtm",
         "name" : "Twitter"
-      }, {
-        "icon" : "linkedin",
-        "link" : "https://ua.linkedin.com/in/anton-minashkin-606a1b4b",
-        "name" : "LinkedIn"
       } ],
-      "title" : "Lead Software Developer"
+      "title" : "Android Developer"
     }
   },
   "previousSpeakers": {
@@ -333,12 +313,12 @@
       "title" : "Sponsors & General Organising"
     }, {
       "name" : "Christoff Jacobs",
-      "photo" : "/images/people/vasylyna_mytsak.jpg",
-      "photoUrl" : "https://storage.googleapis.com/hoverboard-experimental.appspot.com/images/people/optim/vasylyna_mytsak.jpg",
+      "photo" : "/images/people/CJ.jpg",
+      "photoUrl" : "",
       "socials" : [ {
-        "icon" : "gplus",
-        "link" : "https://plus.google.com/+ВасилинаМицак",
-        "name" : "Google+"
+        "icon" : "twitter",
+        "link" : "https://twitter.com/toffie",
+        "name" : "Twitter"
       } ],
       "title" : "Attendees & General Organising"
     }],
@@ -346,18 +326,18 @@
   }, {
     "members" : [ {
       "name" : "Mike Geyser",
-      "photo" : "/images/people/ihor_dvoretskyi.jpg",
-      "photoUrl" : "",
+      "photo" : "/2018/people/Mike_Geyser.jpg",
+      "photoUrl" : "https://firebasestorage.googleapis.com/v0/b/devfest-southafrica.appspot.com/o/2018%2Fpeople%2FMike_Geyser.jpg?alt=media",
       "socials" : [  {
         "icon" : "twitter",
-        "link" : "https://twitter.com/idvoretskyi",
+        "link" : "https://twitter.com/mikegeyser",
         "name" : "Twitter"
       } ],
       "title" : "Web Stream"
     }, {
       "name" : "Rebecca Franks",
       "photo" : "/2018/people/Rebecca_franks.png",
-      "photoUrl" : "",
+      "photoUrl" : "https://firebasestorage.googleapis.com/v0/b/devfest-southafrica.appspot.com/o/2018%2Fpeople%2FRebecca_Franks.png?alt=media",
       "socials" : [  {
         "icon" : "twitter",
         "link" : "https://twitter.com/riggaroo",
@@ -373,7 +353,7 @@
     "ends" : "Nov 31",
     "info" : "Requires motivation for attending",
     "name" : "General Admission",
-    "price" : 0,
+    "price" : 0.0,
     "soldOut" : false,
     "starts" : "Oct 1",
     "url" : "https://2event.com/events/1027108"
