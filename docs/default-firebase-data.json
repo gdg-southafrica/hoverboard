@@ -53,18 +53,25 @@
     "2018-12-01" : {
       "dateReadable" : "December 1",
       "timeslots" : [ {
+        "endTime" : "08:00",
+        "sessions" : [ {
+          "items" : [ 132 ]
+        } ],
+        "startTime" : "07:00"
+      }, {
+        "endTime" : "09:00",
+        "sessions" : [ {
+          "items" : [ 139 ]
+        } ],
+        "startTime" : "08:00"
+      },{
         "endTime" : "10:00",
         "sessions" : [ {
           "items" : [  ]
         } ],
-        "startTime" : "09:00"
-      }, {
-        "endTime" : "10:15",
-        "sessions" : [ {
-          "items" : [  ]
-        } ],
-        "startTime" : "10:00"
-      }, {
+        "startTime" : "09:15"
+      }, 
+      {
         "endTime" : "11:00",
         "sessions" : [ {
           "items" : [  ]
@@ -78,16 +85,14 @@
           "items" : [  ]
         }, {
           "extend" : 3,
-          "items" : [ 109 ]
+          "items" : [  ]
         } ],
         "startTime" : "11:00"
       }, {
         "endTime" : "12:30",
         "sessions" : [ {
-          "items" : [  ]
-        }, {
-          "items" : [  ]
-        } ],
+          "items" : [ 133 ]
+        }],
         "startTime" : "11:50"
       }, {
         "endTime" : "14:00",
@@ -134,7 +139,7 @@
       },  {
         "endTime" : "20:00",
         "sessions" : [ {
-          "items" : [  ]
+          "items" : [ 137 ]
         } ],
         "startTime" : "17:00"
       } ],
@@ -313,11 +318,11 @@
       "title" : "Sponsors & General Organising"
     }, {
       "name" : "Christoff Jacobs",
-      "photo" : "/images/people/CJ.jpg",
-      "photoUrl" : "",
+      "photo" : "/images/people/Christoff_Jacobs.jpg",
+      "photoUrl" : "https://firebasestorage.googleapis.com/v0/b/devfest-southafrica.appspot.com/o/2018%2Fpeople%2FChristoff_Jacobs.jpg?alt=media",
       "socials" : [ {
         "icon" : "twitter",
-        "link" : "https://twitter.com/toffie",
+        "link" : "https://twitter.com/toffiecj",
         "name" : "Twitter"
       } ],
       "title" : "Attendees & General Organising"
