@@ -1,12 +1,12 @@
 {
   "organizer": {
-    "name": "GDG Johannesburg",
-    "twitter": "gdgjohannesburg",
-    "blog": "https://www.meetup.com/GDGJohannesburg",
-    "url": "https://www.meetup.com/GDGJohannesburg"
+    "name": "GDG Cape Town",
+    "twitter": "GDGCapeTown",
+    "blog": "https://www.meetup.com/Google-Developer-Group-Cape-Town-Meetup/",
+    "url": "https://www.meetup.com/Google-Developer-Group-Cape-Town-Meetup/"
   },
-  "startDate": "2018-12-01T09:00:00+02:00",
-  "endDate": "2018-12-01T19:00:00+02:00",
+  "startDate": "2019-11-30T08:00:00+02:00",
+  "endDate": "2018-11-30T18:00:00+02:00",
   "webapp": {
     "shortName": "DevFest",
     "themeColor": "#673AB7",
@@ -15,7 +15,7 @@
   "dateFormat": {
     "locale": "en-US"
   },
-  "hashtag": "DevFest18",
+  "hashtag": "DevFest19",
   "disabledSchedule": false,
   "navigation": [
     {
@@ -97,20 +97,20 @@
   },
   "location": {
     "label": "Location",
-    "name": "The Capital on The Park",
-    "city": "Sandton",
-    "short": "Sandton, South Africa",
-    "address": "101 Katherine Street, Sandown, Sandown, Sandton, 2031",
+    "name": "UCT GSB Academic Conference Centre",
+    "city": "Cape Town",
+    "short": "Cape Town, South Africa",
+    "address": "9 Portswood Rd, Victoria & Alfred Waterfront, Cape Town, 8002",
     "pointer": {
-      "latitude": -26.1072794,
-      "longitude": 28.0627371,
+      "latitude": -33.907366,
+      "longitude": 18.416499,
       "zoom": 5
     },
     "mapCenter": {
-      "latitude": -26,
-      "longitude": 28
+      "latitude": -33,
+      "longitude": 18
     },
-    "description": "Newly built The Capital on The Park in Sandton offers a great conference facility in a prime location."
+    "description": "Newly built UCT GSB Academic Conference Centre in Cape Town offers a great conference facility in a prime location."
   },
   "mediaQueries": {
     "xs": {
@@ -132,7 +132,7 @@
     "follow": [
       {
         "name": "twitter",
-        "url": "https://twitter.com/gdgjohannesburg/"
+        "url": "https://twitter.com/GDGCapeTown/"
       },
       {
         "name": "youtube",
@@ -140,10 +140,6 @@
       }
     ],
     "share": [
-      {
-        "name": "gplus",
-        "url": "https://plus.google.com/share?url="
-      },
       {
         "name": "facebook",
         "url": "https://www.facebook.com/sharer.php?u="
@@ -154,7 +150,7 @@
       }
     ]
   },
-  "mailto": "gdgjohannesburg@gmail.com",
+  "mailto": "gdgcapetown@gmail.com",
   "mailchimp": {
     "url": "https://gdg.us11.list-manage.com/subscribe/post?u=b7e853a79164ddfdbda3ed77b&amp;id=7993e39fbe",
     "name": "b_b7e853a79164ddfdbda3ed77b_7993e39fbe"
