@@ -1,9 +1,9 @@
 {
-  "title": "GDG DevFest South Africa 2018",
-  "description": "Join us at the first DevFest South Africa",
+  "title": "GDG DevFest South Africa 2019",
+  "description": "Join us at the second DevFest South Africa",
   "image": "images/social-share.jpg",
   "keywords": "event, gdg, gde, devfest, google, programming, android, chrome, polymer, developers, web, cloud, androiddev",
-  "dates": "December 1st, 2018",
+  "dates": "November 30th, 2019",
   "partnershipProposition": "https://bit.ly/dfua17-partners",
   "share": "Share",
   "followOur": "Follow our",
@@ -37,18 +37,23 @@
       "title": "About",
       "links": [
         {
+          "name": "GDG Cape Town",
+          "url": "https://www.meetup.com/Google-Developer-Group-Cape-Town-Meetup/",
+          "newTab": true
+        },
+        {
           "name": "GDG Johannesburg",
           "url": "https://www.meetup.com/GDGJohannesburg/",
           "newTab": true
         },
         {
-          "name": "Google Developers Group",
-          "url": "https://developers.google.com/",
+          "name": "GDG",
+          "url": "https://developers.google.com/groups/",
           "newTab": true
         },
         {
-          "name": "Meet the Team",
-          "url": "https://www.meetup.com/GDGJohannesburg/members/?op=leaders",
+          "name": "DevFest",
+          "url": "https://devfest.withgoogle.com/",
           "newTab": true
         }
       ]
@@ -58,7 +63,7 @@
       "links": [
         {
           "name": "Call for Papers",
-          "url": "http://bit.ly/devfestza-2018",
+          "url": "https://bit.ly/devfest-south-africa-2019-speak",
           "newTab": true
         },
         {
@@ -77,11 +82,11 @@
       "featuredSessions": {
         "description": "GDG DevFest South Africa brings together the world class experts in Android, Web and Cloud technologies to South Africa for a conference not to forget.",
         "label": "Submit a Talk",
-        "link": "http://bit.ly/devfestza-2018"
+        "link": "https://bit.ly/devfest-south-africa-2019-speak"
       },
       "howItWas": {
         "description": "Join us for a day of great technical content, where you can learn from industry experts. ",
-        "label": "See how it was in 2016",
+        "label": "See how it was in 2018",
         "youtubeId": "TdpbgRgz6eE"
       }
     },
@@ -123,10 +128,10 @@
     "toast": "We will contact you soon!"
   },
   "featuredVideos": {
-    "title": "DFUA'16 featured videos",
+    "title": "DevFest '18 featured videos",
     "callToAction": {
       "label": "See all videos",
-      "link": "https://www.youtube.com/playlist?list=PLt8lEzcLNl31AouwDkbLbLARlQFwNS2en"
+      "link": "https://www.youtube.com/watch?v=cIIQcg0dtVc&list=PLiI_qQd_yDPs9to3iwpT7HOYnJZJjbXSN"
     }
   },
   "blog": {
@@ -184,11 +189,11 @@
     "subscribe": "Subscribe",
     "subscribed": "Subscribed",
     "close": "Close",
-    "generalError": "Some error has occured. Please, try again later.",
+    "generalError": "An error has occurred. Please, try again later.",
     "toast": "Successfully subscribed!"
   },
   "team": {
-    "description": "Google is known all around the world. Everyone is 'googling', checking on 'maps' and communicating in 'gmail'. For simple users, they are services that just works, but not for us. Developers see much more: APIs, scalability issues, complex technology stacks. And that is what GDG is about.<br><br> [Google Developers Group (GDG) South Africa](https://meetup.com/GDGJohannesburg) - is open and volunteer geek community who create exciting projects and share experience about Google technologies with a passion.<br><br> Our goal is to organize space to connect the best industry experts with South African audience to boost development of IT."
+    "description": "Google is known all around the world. Everyone is 'googling', checking on 'maps' and communicating in 'gmail'. For simple users, they are services that just works, but not for us. Developers see much more: APIs, scalability issues, complex technology stacks. And that is what GDG is about.<br><br> [Google Developers Group (GDG) South Africa](https://www.meetup.com/Google-Developer-Group-Cape-Town-Meetup/) - is open and volunteer geek community who create exciting projects and share experience about Google technologies with a passion.<br><br> Our goal is to organize space to connect the best industry experts with South African audience to boost development of IT."
   },
   "schedule": {
     "saveSessionsSignedOut": "Sign in to save sessions"
@@ -221,7 +226,7 @@
     "blocks": [
       {
         "title": "Organizer",
-        "description": "<a href='https://www.meetup.com/GDGJohannesburg' target='_blank'>GDG Johannesburg</a> with support of 2 GDGs from all around South Africa is proud organizer of DevFest South Africa",
+        "description": "<a href='https://www.meetup.com/Google-Developer-Group-Cape-Town-Meetup/' target='_blank'>GDG Cape Town</a> with support of 2 GDGs from all around South Africa is proud organizer of DevFest South Africa",
         "callToAction": {
           "label": "Open team page",
           "link": "/team"
@@ -229,10 +234,19 @@
       },
       {
         "title": "What is GDG?",
-        "description": "Google Developers Group (GDG) - is open and volunteer geek community who create exciting projects and share experience about Google technologies with a passion",
+        "description": "Google Developers Groups (GDGs) are communities of volunteers who create exciting projects and share experiences about Google technologies.",
         "callToAction": {
           "label": "Read more",
           "link": "https://developers.google.com/groups/",
+          "newTab": true
+        }
+      },
+      {
+        "title": "What is DevFest?",
+        "description": "DevFests are community-led developer events hosted by Google Developer Groups around the globe.",
+        "callToAction": {
+          "label": "Read more",
+          "link": "https://devfest.withgoogle.com/",
           "newTab": true
         }
       }
@@ -245,5 +259,15 @@
       "part1": "Sign in with",
       "part2": "to continue."
     }
+  },
+  "filters": {
+    "title": "Filters",
+    "results": "Results",
+    "tags": "Tags",
+    "complexity": "Complexity",
+    "clear": "Clear all"
+  },
+  "addToHomeScreen": {
+    "cta": "Add to Home Screen"
   }
 }
