@@ -2,7 +2,7 @@
 
 ### Dates and location
 
-GDG DevFest South Africa will take place on the 1st of December in [The Capital on The Park,](https://goo.gl/maps/Fhdes8rccQ62) Sandton, Gauteng South Africa.
+GDG DevFest South Africa will take place on the 30th of November in [UCT GSB Academic Conference Centre,](https://goo.gl/maps/HBpwkqeTuWDmgpxo8) Cape Town, South Africa.
 
 ### Stay Informed
 
