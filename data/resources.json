@@ -226,7 +226,7 @@
     "blocks": [
       {
         "title": "Organizer",
-        "description": "<a href='https://www.meetup.com/Google-Developer-Group-Cape-Town-Meetup/' target='_blank'>GDG Cape Town</a> with support of 2 GDGs from all around South Africa is proud organizer of DevFest South Africa",
+        "description": "<a href='https://www.meetup.com/Google-Developer-Group-Cape-Town-Meetup/' target='_blank'>GDG Cape Town</a> and <a href='https://www.meetup.com/GDGJohannesburg/' target='_blank'>GDG Johannesburg</a> are proud organizes of DevFest South Africa",
         "callToAction": {
           "label": "Open team page",
           "link": "/team"
