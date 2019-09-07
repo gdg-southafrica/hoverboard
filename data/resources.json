@@ -165,11 +165,11 @@
     }
   },
   "galleryBlock": {
-    "title": "#dfua16 highlights",
-    "description": "This year's festival built lots of excitement. Check out photos from featured talks, hands-on learning sessions, and after-hours fun.",
+    "title": "DevFest 18 Highlights",
+    "description": "Last year's festival built lots of excitement. Check out photos from featured talks, hands-on learning sessions, and after-hours fun.",
     "callToAction": {
       "label": "See all photos",
-      "link": "https://goo.gl/photos/H8s3CtPexCzkLqSt9"
+      "link": "https://photos.app.goo.gl/EkYhWwwrd4gsdwQw7"
     }
   },
   "mapBlock": {
@@ -193,7 +193,7 @@
     "toast": "Successfully subscribed!"
   },
   "team": {
-    "description": "Google is known all around the world. Everyone is 'googling', checking on 'maps' and communicating in 'gmail'. For simple users, they are services that just works, but not for us. Developers see much more: APIs, scalability issues, complex technology stacks. And that is what GDG is about.<br><br> [GDG Cape Town](https://www.meetup.com/Google-Developer-Group-Cape-Town-Meetup/) and [GDG Johannesburg](https://www.meetup.com/GDGJohannesburg/) are open and volunteer geek communities which create exciting projects and share experiences about Google technologies with a passion.<br><br> Our goal is to organize space to connect the best industry experts with South African audience to boost development of IT."
+    "description": "Google is known all around the world. Everyone is 'googling', checking on 'maps' and communicating in 'gmail'. For simple users, they are services that just works, but not for us. Developers see much more: APIs, scalability issues, complex technology stacks. And that is what GDG is about.<br><br> [GDG Cape Town](https://www.meetup.com/Google-Developer-Group-Cape-Town-Meetup/) and [GDG Johannesburg](https://www.meetup.com/GDGJohannesburg/) are open and volunteer geek communities which create exciting projects and share experiences about Google technologies with a passion.<br><br> Our goal is to organise space to connect the best industry experts with South African audience to boost development of IT."
   },
   "schedule": {
     "saveSessionsSignedOut": "Sign in to save sessions"
@@ -225,8 +225,8 @@
     "image": "/images/team.jpg",
     "blocks": [
       {
-        "title": "Organizer",
-        "description": "<a href='https://www.meetup.com/Google-Developer-Group-Cape-Town-Meetup/' target='_blank'>GDG Cape Town</a> and <a href='https://www.meetup.com/GDGJohannesburg/' target='_blank'>GDG Johannesburg</a> are proud organizes of DevFest South Africa",
+        "title": "Organiser",
+        "description": "<a href='https://www.meetup.com/Google-Developer-Group-Cape-Town-Meetup/' target='_blank'>GDG Cape Town</a> and <a href='https://www.meetup.com/GDGJohannesburg/' target='_blank'>GDG Johannesburg</a> are proud organisers of DevFest South Africa",
         "callToAction": {
           "label": "Open team page",
           "link": "/team"
