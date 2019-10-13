@@ -8,9 +8,6 @@ We are maintaining blog posts and team members purely in Cloud Firestore. See co
 # The other stuff? 
 Most of the other important things are configured and deployed from `data/resources.json`. 
 
-# Disable apply to speak
-Once the Call For Papers is concluded we should disable the apply to speak button. See https://github.com/gdg-southafrica/hoverboard/commit/3f4be12045e6c256e5d68bee134d4f7e475fdf43
-
 # Dev environment and branches 
 Please dev in your own fork and file a PR. If you're fairly confident, gladly merge to `master` and let Travis deploy to Firebase. But gladly assign a team member for code review while filing your pull request. 
 
