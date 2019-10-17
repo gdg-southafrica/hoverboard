@@ -24,7 +24,7 @@
   "country": "Country",
   "time": "Time",
   "faq": "/data/faq.md",
-  "cod": "/data/cod.md",
+  "coc": "/data/coc.md",
   "footer": {
     "blog": "Blog"
   },
@@ -81,8 +81,8 @@
     "callToAction": {
       "featuredSessions": {
         "description": "GDG DevFest South Africa brings together the world class experts in Android, Web and Cloud technologies to South Africa for a conference not to forget.",
-        "label": "Submit a Talk",
-        "link": "https://bit.ly/devfest-south-africa-2019-speak"
+        "label": "Apply for a ticket",
+        "link": "https://bit.ly/devfest-south-africa-2019-attend"
       },
       "howItWas": {
         "description": "Join us for a day of great technical content, where you can learn from industry experts. ",
