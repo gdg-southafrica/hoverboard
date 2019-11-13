@@ -24,6 +24,11 @@
       "label": "Home"
     },
     {
+      "route": "blog",
+      "permalink": "/blog/",
+      "label": "Blog"
+    },
+    {
       "route": "speakers",
       "permalink": "/speakers/",
       "label": "Speakers"
@@ -47,6 +52,15 @@
         "image": "/images/backgrounds/home.jpg"
       },
       "fontColor": "#FFF"
+    },
+    "blog": {
+      "title": "Blog",
+      "metaDescription": "Read stories from our team",
+      "description": "Read stories from our team",
+      "background": {
+        "color": "#FFF"
+      },
+      "fontColor": "#424242"
     },
     "speakers": {
       "title": "Speakers",
