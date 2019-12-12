@@ -86,7 +86,7 @@
       },
       "howItWas": {
         "description": "Join us for a day of great technical content, where you can learn from industry experts. ",
-        "label": "See how it was in 2018",
+        "label": "See how it was in 2019",
         "youtubeId": "TdpbgRgz6eE"
       }
     },
@@ -128,10 +128,10 @@
     "toast": "We will contact you soon!"
   },
   "featuredVideos": {
-    "title": "DevFest '18 featured videos",
+    "title": "DevFest '19 featured videos",
     "callToAction": {
       "label": "See all videos",
-      "link": "https://www.youtube.com/watch?v=cIIQcg0dtVc&list=PLiI_qQd_yDPs9to3iwpT7HOYnJZJjbXSN"
+      "link": "https://www.youtube.com/playlist?list=PLDjQaAgi33dasYVR8MdZ9SyjQUExLynB1"
     }
   },
   "blog": {
@@ -165,11 +165,11 @@
     }
   },
   "galleryBlock": {
-    "title": "DevFest 18 Highlights",
-    "description": "Last year's festival built lots of excitement. Check out photos from featured talks, hands-on learning sessions, and after-hours fun.",
+    "title": "DevFest 19 Highlights",
+    "description": "2019's festival built lots of excitement. Check out photos from talks, sessions, and after-hours fun.",
     "callToAction": {
       "label": "See all photos",
-      "link": "https://photos.google.com/share/AF1QipOVKByadcUKC5M8xYjLJD7FXxObFK3K5rC10LaKADp_0mg9q4rPW81yAev4HZxLPQ?key=VFJyMzFnWGQ0Z0g4ZjRsSEI5WUo1OUV5aXQzSjhB"
+      "link": "https://photos.app.goo.gl/N4yuVHnVWXgka4AA9"
     }
   },
   "mapBlock": {
