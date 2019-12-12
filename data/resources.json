@@ -128,10 +128,10 @@
     "toast": "We will contact you soon!"
   },
   "featuredVideos": {
-    "title": "DevFest '18 featured videos",
+    "title": "DevFest '19 featured videos",
     "callToAction": {
       "label": "See all videos",
-      "link": "https://www.youtube.com/watch?v=cIIQcg0dtVc&list=PLiI_qQd_yDPs9to3iwpT7HOYnJZJjbXSN"
+      "link": "https://www.youtube.com/playlist?list=PLDjQaAgi33dasYVR8MdZ9SyjQUExLynB1"
     }
   },
   "blog": {
